@@ -1,2 +1,2 @@
 # BandungFlightApp
-Base code for Android Training
+This is the solution of BandungFlightApp quiz for my Android training class
